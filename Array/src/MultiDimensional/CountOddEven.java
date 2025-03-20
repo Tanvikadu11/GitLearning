@@ -41,4 +41,5 @@ public class CountOddEven
             System.out.println("Sum of Even Number is :- "+counteven);
             System.out.println("Sum of Odd Number is :- "+countodd);
     }
+    System.out.println("Total even and odd number is count");
 }
